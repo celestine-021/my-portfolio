@@ -531,7 +531,7 @@ footer {
 .hero-image {
   overflow: hidden;
   border: 2px solid #d9822b;
-  border-radius: 8px;
+  border-radius: 50%;
   background: #ffffff;
   box-shadow: 0 20px 50px rgba(42, 32, 36, 0.12);
 }
@@ -563,7 +563,7 @@ footer {
     width: min(16vw, 180px);
     height: min(16vw, 180px);
     transform: none;
-    border-radius: 8px;
+    border-radius: 50%;
     clip-path: none;
     border: 2px solid #d9822b;
     z-index: 0;
@@ -600,6 +600,6 @@ footer {
     overflow: hidden;
     width: min(64vw, 210px);
     height: min(64vw, 210px);
-    border-radius: 8px;
+    border-radius: 50%;
   }
 }
