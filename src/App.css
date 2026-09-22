@@ -553,6 +553,7 @@ footer {
     object-fit: cover;
     object-position: center top;
     display: block;
+    border-radius: inherit;
   }
 
   /* MOBILE */
@@ -632,6 +633,9 @@ footer {
 
   .hero-image {
     order: 2;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
     width: min(62vw, 220px);
     height: min(82vw, 300px);
     border-radius: 50%;
