@@ -94,6 +94,10 @@ function App() {
               <span>Wainaina.</span>
             </h1>
 
+            <div className="hero-image">
+              <img src="/celestine.png" alt="Celestine Wainaina" />
+            </div>
+
             <p className="hero-description">
               I build thoughtful digital experiences from the frontend interface
               to the backend logic that makes everything work.
