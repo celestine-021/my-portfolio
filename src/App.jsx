@@ -245,6 +245,22 @@ function App() {
               development practices.
             </p>
           </div>
+          <div className="education-card">
+            <div>
+              <p className="education-year">UDEMY • CURRENTLY</p>
+
+              <h2>
+                Current
+                <br />
+                Course
+              </h2>
+            </div>
+
+            <p className="education-description">
+              Currently taking a software development course on Udemy to
+              continue building my skills and expanding my knowledge.
+            </p>
+          </div>
         </section>
 
         {/* CONTACT */}
